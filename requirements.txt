@@ -1,0 +1,6 @@
+Flask
+requests
+vonage
+gunicorn
+opencv-python
+numpy
