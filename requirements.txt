@@ -4,3 +4,4 @@ vonage
 gunicorn
 opencv-python
 numpy
+ultralytics
