@@ -5,4 +5,9 @@ gunicorn
 opencv-python
 numpy
 ultralytics
-Python 3.14.3
+flask
+opencv-python
+numpy
+scikit-learn
+joblib
+gunicorn
