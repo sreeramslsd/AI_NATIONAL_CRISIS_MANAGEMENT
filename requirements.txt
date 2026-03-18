@@ -4,7 +4,6 @@ vonage
 gunicorn
 opencv-python
 numpy
-ultralytics
 flask
 opencv-python
 numpy
